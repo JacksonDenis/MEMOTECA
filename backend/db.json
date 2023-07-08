@@ -4,36 +4,42 @@
       "id": 2,
       "conteudo": "Angular nao e tao dificil mais tem muita coisa pra decorar ",
       "autoria": "Jackson",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Vamos para o segundo turno",
       "autoria": "Jackson",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "conteudo": "Jackson Lindo pra porra",
       "autoria": "Jackson",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "dsfsdfsd",
       "autoria": "sdfsdfsd",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 8
     },
     {
       "conteudo": "resteas",
       "autoria": "dfasett",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 9
     },
     {
